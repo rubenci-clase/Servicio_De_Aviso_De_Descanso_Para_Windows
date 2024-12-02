@@ -32,9 +32,9 @@ java -jar DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDescanso> <cant
 - cantidadDeAvisos: Número total de avisos a mostrar (por defecto 3).
 
 ### Si no se proporcionan argumentos, los valores predeterminados serán:
-minutosEntreAvisos: 1 minuto.
-duracionDescanso: 1 minuto.
-cantidadDeAvisos: 3 avisos.
+- minutosEntreAvisos: 1 minuto.
+- duracionDescanso: 1 minuto.
+- cantidadDeAvisos: 3 avisos.
 
 Crear acceso directo en la carpeta de inicio de Windows
 Para que la aplicación se ejecute automáticamente al iniciar el sistema, sigue estos pasos:
