@@ -39,10 +39,11 @@ Para que la aplicación se ejecute automáticamente al iniciar el sistema, sigue
 - **Paso 1: Ubica el archivo DescansoRecordatorio.jar en una carpeta accesible.**
 - **Paso 2: Crea un acceso directo en la carpeta de inicio de Windows. Abre Explorador de archivos, y escribe shell:startup en la barra de direcciones para abrir la carpeta de inicio.**
 - **Paso 3: Crea un acceso directo del archivo .jar en esa carpeta, utilizando el siguiente comando en la propiedad del acceso directo:**
+  
 ```bash
 java -jar C:\ruta\a\DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDescanso> <cantidadDeAvisos>
-Sustituye C:\ruta\a\DescansoRecordatorio.jar con la ruta donde guardaste el archivo JAR y ajusta los valores de los parámetros según desees.
 ```
+**Sustituye C:\ruta\a\DescansoRecordatorio.jar con la ruta donde guardaste el archivo JAR y ajusta los valores de los parámetros según desees.**
 
 ### Explicación del Código
 **Principal.java**
