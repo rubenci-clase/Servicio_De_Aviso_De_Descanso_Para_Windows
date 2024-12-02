@@ -8,9 +8,9 @@ Esta aplicación en Java está diseñada para recordarte que tomes descansos a i
 - **Compilar la aplicación**
 - **Asegúrate de tener Java correctamente instalado y compilada la clase. Puedes compilarla desde la terminal con:**
 
+Crear el archivo JAR
 ```bash
 javac Principal.java
-Crear el archivo JAR
 ```
 
 Una vez compilado, crea un archivo JAR para ejecutar la aplicación:
