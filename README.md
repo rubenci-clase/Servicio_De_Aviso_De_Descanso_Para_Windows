@@ -49,9 +49,9 @@ java -jar C:\ruta\a\DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDesca
 **Principal.java**
 Este es el punto de entrada de la aplicación. El programa toma tres parámetros de la línea de comandos:
 
-- ** minutosEntreAvisos: Intervalo de tiempo entre cada aviso de descanso.
-- ** duracionDescanso: Duración del descanso en minutos.
-- ** cantidadDeAvisos: Número de veces que se mostrará el aviso.
+- **minutosEntreAvisos: Intervalo de tiempo entre cada aviso de descanso.**
+- **duracionDescanso: Duración del descanso en minutos.**
+- **cantidadDeAvisos: Número de veces que se mostrará el aviso.**
 El programa ejecuta un ciclo que muestra el aviso cada vez que transcurre el tiempo especificado.
 
 **AvisoDescanso.java**
