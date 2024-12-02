@@ -1,6 +1,9 @@
 # DescansoRecordatorio - Aplicación de Aviso para Tomar Descansos
 Esta aplicación en Java está diseñada para recordarte que tomes descansos a intervalos específicos. Puedes configurar el tiempo entre los avisos, la duración de cada descanso y la cantidad de avisos. Los avisos aparecerán como ventanas emergentes que te informarán sobre el tiempo de descanso configurado.
 
+![image](https://github.com/user-attachments/assets/3ad94b74-5f7b-4189-86da-371c451780d7)
+
+
 ## Requisitos
 - **Java 8 o superior instalado en tu sistema.**
 - **Sistema operativo Windows para la creación de un acceso directo en la carpeta de inicio.**
@@ -24,9 +27,9 @@ Para ejecutar la aplicación, usa el siguiente comando en la terminal:
 java -jar DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDescanso> <cantidadDeAvisos>
 ```
 ## Intrucciones de funcionamiento:
-minutosEntreAvisos: Tiempo en minutos entre cada aviso (por defecto 1).>
-duracionDescanso: Duración del descanso en minutos (por defecto 1).>
-cantidadDeAvisos: Número total de avisos a mostrar (por defecto 3).>
+- minutosEntreAvisos: Tiempo en minutos entre cada aviso (por defecto 1).
+- duracionDescanso: Duración del descanso en minutos (por defecto 1).
+- cantidadDeAvisos: Número total de avisos a mostrar (por defecto 3).
 
 ### Si no se proporcionan argumentos, los valores predeterminados serán:
 minutosEntreAvisos: 1 minuto.
@@ -44,6 +47,8 @@ Para que la aplicación se ejecute automáticamente al iniciar el sistema, sigue
 java -jar C:\ruta\a\DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDescanso> <cantidadDeAvisos>
 ```
 **Sustituye C:\ruta\a\DescansoRecordatorio.jar con la ruta donde guardaste el archivo JAR y ajusta los valores de los parámetros según desees.**
+
+![image](https://github.com/user-attachments/assets/4ab810f3-84cc-456a-8d62-278d9e687f04)
 
 ### Explicación del Código
 **Principal.java**
