@@ -1,4 +1,4 @@
-# DescansoRecordatorio - Aplicación de Aviso para Tomar Descansos
+# Aplicación de Aviso para Tomar Descansos
 Esta aplicación en Java está diseñada para recordarte que tomes descansos a intervalos específicos. Puedes configurar el tiempo entre los avisos, la duración de cada descanso y la cantidad de avisos. Los avisos aparecerán como ventanas emergentes que te informarán sobre el tiempo de descanso configurado.
 
 ![image](https://github.com/user-attachments/assets/3ad94b74-5f7b-4189-86da-371c451780d7)
