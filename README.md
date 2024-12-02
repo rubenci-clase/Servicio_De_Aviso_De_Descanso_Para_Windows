@@ -2,8 +2,8 @@
 Esta aplicación en Java está diseñada para recordarte que tomes descansos a intervalos específicos. Puedes configurar el tiempo entre los avisos, la duración de cada descanso y la cantidad de avisos. Los avisos aparecerán como ventanas emergentes que te informarán sobre el tiempo de descanso configurado.
 
 ## Requisitos
-- ** Java 8 o superior instalado en tu sistema.
-- ** Sistema operativo Windows para la creación de un acceso directo en la carpeta de inicio.
+- **Java 8 o superior instalado en tu sistema.
+- **Sistema operativo Windows para la creación de un acceso directo en la carpeta de inicio.
 ## Instrucciones de uso
 - ** Compilar la aplicación
 - ** Asegúrate de tener Java correctamente instalado y compilada la clase. Puedes compilarla desde la terminal con:
