@@ -23,10 +23,10 @@ Para ejecutar la aplicación, usa el siguiente comando en la terminal:
 ```bash
 java -jar DescansoRecordatorio.jar <minutosEntreAvisos> <duracionDescanso> <cantidadDeAvisos>
 ```
-### Donde:
-minutosEntreAvisos: Tiempo en minutos entre cada aviso (por defecto 1).
-duracionDescanso: Duración del descanso en minutos (por defecto 1).
-cantidadDeAvisos: Número total de avisos a mostrar (por defecto 3).
+## Intrucciones de funcionamiento:
+minutosEntreAvisos: Tiempo en minutos entre cada aviso (por defecto 1).>
+duracionDescanso: Duración del descanso en minutos (por defecto 1).>
+cantidadDeAvisos: Número total de avisos a mostrar (por defecto 3).>
 
 ### Si no se proporcionan argumentos, los valores predeterminados serán:
 minutosEntreAvisos: 1 minuto.
